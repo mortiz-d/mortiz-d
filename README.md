@@ -1,11 +1,8 @@
-### Hi there 👋
-
 <div class="header">
-    <a href="https://github.com/chriss1245/uc3m"><img width="238" alt="UC3M" src="https://user-images.githubusercontent.com/58918297/143498752-5a0bc15b-b261-45a8-9af5-60087ba0db45.png"></a>
-    <a href="https://github.com/chriss1245/42madrid"><img width="200" src="https://user-images.githubusercontent.com/58918297/143498748-90b4b6d4-a34d-46fa-95a0-d52f064e16ff.jpg"></a>
+    <a href="https://github.com/mortiz-d/42madrid"><img width="300" src="https://user-images.githubusercontent.com/58918297/143498748-90b4b6d4-a34d-46fa-95a0-d52f064e16ff.jpg"></a>
 </div class="header">
 
-### Miguel Ángel 👋
+### Miguel Ángel Ortiz
 
 - I am a student in the 42 School
 - I love to learn
