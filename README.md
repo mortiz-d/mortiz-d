@@ -6,7 +6,7 @@
 
 - I am a student in the 42 School
 - I love to learn
-- i am currently developing my knowledge around programing and Unix
+- I am currently developing my knowledge around programing and Unix
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&theme=dark)](https://github.com/Zitro646)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&theme=dark)](https://github.com/Zitro646)
