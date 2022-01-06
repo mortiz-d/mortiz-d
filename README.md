@@ -8,8 +8,8 @@
 - I love to learn
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&theme=dark)](https://github.com/Zitro646)-->
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Zitro646&count_private=true&show_icons=true&theme=dark">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&theme=dark)](https://github.com/Zitro646)
+<img height="205px" src="https://github-readme-stats.vercel.app/api?username=Zitro646&count_private=true&show_icons=true&theme=dark">
 
 ## Top projects
 | **Name** | **Description**|
@@ -19,7 +19,7 @@
 |[Message Server](https://github.com/Zitro646/Proyectos-en-Java/Servidor)| A proyect where i have to send a message throug a window and it has to be show on the servers window.|
 |[Interface with a DDBB](https://github.com/Zitro646/Proyectos-en-Java/Practica)| A proyect where a batabase can be managed through a window.|
 |[Airport](https://github.com/Zitro646/Proyectos-en-Java/Aeropuerto)| A proyect where i use threads(air planes) to coordinate and land on an airport (2 at the time).|
-|[Airport](https://github.com/Zitro646/Proyectos-en-Java/Libros)| A proyect where i learned about object-oriented programming..|
+|[Libros](https://github.com/Zitro646/Proyectos-en-Java/Libros)| A proyect where i learned about object-oriented programming.|
 |[Bort2beroot](https://github.com/Zitro646/42Cursus/born2beroot)| A proyect where i have to sort an unsorted stack of numbers with two arrays and a pack of rules.|
 
 
