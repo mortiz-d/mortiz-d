@@ -14,7 +14,14 @@
 ## Top projects
 | **Name** | **Description**|
 |----------|----------------|
-|[Cajero](https://github.com/Zitro646/Cajero)| What can i say? It was my first proyect.|
+|[Libft](https://github.com/Zitro646/42Cursus/Libft)| A library with some basic functions made so i can use them and modify them.|
+|[Push_Swap](https://github.com/Zitro646/42Cursus/push_swap)| A proyect where i have to sort an unsorted stack of numbers with two arrays and a pack of rules.|
+|[Message Server](https://github.com/Zitro646/Proyectos-en-Java/Servidor)| A proyect where i have to send a message throug a window and it has to be show on the servers window.|
+|[Interface with a DDBB](https://github.com/Zitro646/Proyectos-en-Java/Practica)| A proyect where a batabase can be managed through a window.|
+|[Airport](https://github.com/Zitro646/Proyectos-en-Java/Aeropuerto)| A proyect where i use threads(air planes) to coordinate and land on an airport (2 at the time).|
+|[Airport](https://github.com/Zitro646/Proyectos-en-Java/Libros)| A proyect where i learned about object-oriented programming..|
+|[Bort2beroot](https://github.com/Zitro646/42Cursus/born2beroot)| A proyect where i have to sort an unsorted stack of numbers with two arrays and a pack of rules.|
+
 
 <!--
 
