@@ -22,9 +22,9 @@
 ## Top projects
 | **Name** | **Description**|
 |----------|----------------|
-|[Push_Swap](https://github.com/Zitro646/42Cursus/push_swap)| This project has to sort an unsorted stack of numbers with two arrays following some rules.|
-|[Message Server](https://github.com/Zitro646/Proyectos-en-Java/Servidor)| An inteface(client) where u have to comunicate and the message is showed  on the server interface. |
-|[Interface with a DDBB](https://github.com/Zitro646/Proyectos-en-Java/Practica)| A proyect where a batabase can be managed through an interface(window).|
+|[Push_Swap](https://github.com/Zitro646/42Cursus/tree/master/push_swap)| This project has to sort an unsorted stack of numbers with two arrays following some rules.|
+|[Message Server](https://github.com/Zitro646/Proyectos-en-Java/tree/master/Servidor)| An inteface(client) where u have to comunicate and the message is showed  on the server interface. |
+|[Interface with a DDBB](https://github.com/Zitro646/Proyectos-en-Java/tree/master/Practica)| A proyect where a batabase can be managed through an interface(window).|
 <!--
 ## Top projects
 | **Name** | **Description**|
