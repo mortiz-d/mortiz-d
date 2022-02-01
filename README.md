@@ -9,14 +9,29 @@
 - I am currently developing my knowledge around programing and Unix
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&theme=dark)](https://github.com/Zitro646)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&theme=dark)](https://github.com/Zitro646)
-<img height="205px" src="https://github-readme-stats.vercel.app/api?username=Zitro646&count_private=true&show_icons=true&theme=dark">
+<table>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&exclude_repo=Other_Projects&theme=dark&langs_count=4"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Zitro646&count_private=true&show_icons=true&theme=dark"></td>
+</table>
 
 ## My repositories
-| - Repositories - | - Description - |
-|----------------|-------------------|
-| [42 Madrid](https://github.com/Zitro646/42Cursus)| This repository holds all the projects i have done on 42 Madrid |
-| [Java Proyects](https://github.com/Zitro646/Proyectos-en-Java)| This repository holds most of the projects i have made in Java |
+<table>
+    <tr>
+        <td> - Repositories - </td>
+        <td> - Description - </td>
+        <td> - Languages Used - </td>
+    </tr>
+    <tr>
+        <td><a  href="https://github.com/Zitro646/42Cursus">42 Madrid</a></td>
+        <td>This repository holds all the projects i have done on 42 Madrid</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a  href="https://github.com/Zitro646/Proyectos-en-Java">Java Proyects</a></td>
+        <td>This repository holds most of the projects i have made in Java</td>
+        <td> - Languages Used - </td>
+    </tr>
+</table>
 
 
 ## Top projects
