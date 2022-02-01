@@ -24,12 +24,10 @@
     <tr>
         <td><a  href="https://github.com/Zitro646/42Cursus">42 Madrid</a></td>
         <td>This repository holds all the projects i have done on 42 Madrid</td>
-        <td></td>
     </tr>
     <tr>
         <td><a  href="https://github.com/Zitro646/Proyectos-en-Java">Java Proyects</a></td>
         <td>This repository holds most of the projects i have made in Java</td>
-        <td> - Languages Used - </td>
     </tr>
 </table>
 
