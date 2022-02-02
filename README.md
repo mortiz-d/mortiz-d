@@ -39,7 +39,6 @@
 |[Interface with a DDBB](https://github.com/Zitro646/Proyectos-en-Java/tree/master/Practica)| A proyect where a batabase can be managed through an interface(window).|
 
 ## **Technologies I know:**<br>
-<p align='center'><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="left">
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual"/> </a>
 <a href="www.eclipse.org"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse"> </a>
