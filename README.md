@@ -6,7 +6,6 @@
 - My name is Miguel Ángel Ortiz
 - I am a student at 42 School
 - I am currently developing my knowledge around programing
-- Sometimes i do a little of trolling :trollface: ↓
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
