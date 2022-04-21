@@ -53,8 +53,8 @@
 
 ## Languages I use:<br>
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-<a href="https://isocpp.org/std/the-standard"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
+<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
 <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </a>
 <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"> </a>
 <a href="https://es.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"> </a>
@@ -62,20 +62,6 @@
 </p>
 
   
-  
-<!--
-## Top projects
-| **Name** | **Description**|
-|----------|----------------|
-|[Libft](https://github.com/Zitro646/42Cursus/Libft)| A library with some basic functions made so i can use them and modify them.|
-|[Push_Swap](https://github.com/Zitro646/42Cursus/push_swap)| A proyect where i have to sort an unsorted stack of numbers with two arrays and a pack of rules.|
-|[Message Server](https://github.com/Zitro646/Proyectos-en-Java/Servidor)| A proyect where i have to send a message throug a window and it has to be show on the servers window.|
-|[Interface with a DDBB](https://github.com/Zitro646/Proyectos-en-Java/Practica)| A proyect where a batabase can be managed through a window.|
-|[Airport](https://github.com/Zitro646/Proyectos-en-Java/Aeropuerto)| A proyect where i use threads(air planes) to coordinate and land on an airport (2 at the time).|
-|[Libros](https://github.com/Zitro646/Proyectos-en-Java/Libros)| A proyect where i learned about object-oriented programming.|
-|[Bort2beroot](https://github.com/Zitro646/42Cursus/born2beroot)| A proyect where i have to sort an unsorted stack of numbers with two arrays and a pack of rules.|
--->
-
 <!--
 
 **Zitro646/Zitro646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
