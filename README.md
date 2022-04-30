@@ -53,11 +53,8 @@
 ## Languages I use:<br>
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
-<a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </a>
-<a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"> </a>
-<a href="https://es.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"> </a>
-<a href="https://es.wikipedia.org/wiki/CSS"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"> </a>
+<a ><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
+<a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </a>
 </p>
 
   
