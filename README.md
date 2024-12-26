@@ -27,9 +27,9 @@ struct persona {
 
 void introduccion (struct persona yo)
 {
-        printf("Hola soy %s y actualmente resido en %s, en mi tiempo libre he sido voluntario como %s.\n
-        Soy una persona que ha completado los estudios troncales de %s y actualmente estoy consiguiendo el %s de %s.\n
-        Actualmente soy un %s aunque me estoy desarrollando para convertirme en un %s.\n",yo.nombre, yo.pais,yo.aficion ,yo.universidad,yo.titulacion, yo.estudios, yo.trabajo , yo.objetivo);
+    printf("Hola soy %s y actualmente resido en %s, en mi tiempo libre he sido voluntario como %s.\n" \
+        "Soy una persona que ha completado los estudios troncales de %s y actualmente estoy consiguiendo el %s de %s.\n" \
+        "Actualmente soy un %s aunque me estoy desarrollando para convertirme en un %s.\n",yo.nombre, yo.pais,yo.aficion ,yo.universidad,yo.titulacion, yo.estudios, yo.trabajo , yo.objetivo);
     return;
 }
 
