@@ -27,7 +27,9 @@ struct persona {
 
 void introduccion (struct persona yo)
 {
-        printf("Hola soy %s y actualmente resido en %s, en mi tiempo libre he sido voluntario como %s, soy una persona que ha completado los estudios troncales de %s y actualmente estoy consiguiendo el %s de %s, actualmente soy un %s aunque me estoy desarrollando para convertirme en un %s\n",yo.nombre, yo.pais,yo.aficion ,yo.universidad,yo.titulacion, yo.estudios, yo.trabajo , yo.objetivo);
+        printf("Hola soy %s y actualmente resido en %s, en mi tiempo libre he sido voluntario como %s.\n
+        Soy una persona que ha completado los estudios troncales de %s y actualmente estoy consiguiendo el %s de %s.\n
+        Actualmente soy un %s aunque me estoy desarrollando para convertirme en un %s.\n",yo.nombre, yo.pais,yo.aficion ,yo.universidad,yo.titulacion, yo.estudios, yo.trabajo , yo.objetivo);
     return;
 }
 
@@ -39,7 +41,9 @@ int main(void) {
 ```
 
 ```output
-Hola soy Miguel Angel y actualmente resido en Madrid / España, en mi tiempo libre he sido voluntario como ⚜️ Monitor Scout ⚜️, soy una persona que ha completado los estudios troncales de 42School Madrid y actualmente estoy consiguiendo el RNCP 6 de Software Engineer, actualmente soy un Programador aunque me estoy desarrollando para convertirme en un Analista de Datos
+Hola soy Miguel Angel y actualmente resido en Madrid / España, en mi tiempo libre he sido voluntario como ⚜️ Monitor Scout ⚜️.
+Soy una persona que ha completado los estudios troncales de 42School Madrid y actualmente estoy consiguiendo el RNCP 6 de Software Engineer.
+Actualmente soy un Programador aunque me estoy desarrollando para convertirme en un Analista de Datos.
 ```
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&exclude_repo=Other_Projects&theme=dark&langs_count=4">
