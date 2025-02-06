@@ -46,8 +46,8 @@ Soy una persona que ha completado los estudios troncales de 42School Madrid y ac
 Actualmente soy un Programador aunque me estoy desarrollando para convertirme en un Analista de Datos.
 ```
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zitro646&exclude_repo=Other_Projects&theme=dark&langs_count=4">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zitro646&count_private=true&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortiz-d&exclude_repo=Other_Projects&theme=dark&langs_count=4">
+    <img src="https://github-readme-stats.vercel.app/api?username=mortiz-d&count_private=true&show_icons=true&theme=dark">
 </div>
 
 ### <p>Lenguajes de programacion que uso:<br></p>
